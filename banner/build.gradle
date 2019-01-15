@@ -1,7 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
-version = "1.4.10"
+group='com.github.Panxiaoan1993'
+version = "1.0.0"
 
 android {
     compileSdkVersion 25
